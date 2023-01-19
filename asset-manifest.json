@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonalieestoya/MyPortfolio.git/static/css/main.3332380c.css",
+    "main.js": "/Jonalieestoya/MyPortfolio.git/static/js/main.a362251f.js",
+    "index.html": "/Jonalieestoya/MyPortfolio.git/index.html",
+    "main.3332380c.css.map": "/Jonalieestoya/MyPortfolio.git/static/css/main.3332380c.css.map",
+    "main.a362251f.js.map": "/Jonalieestoya/MyPortfolio.git/static/js/main.a362251f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3332380c.css",
+    "static/js/main.a362251f.js"
+  ]
+}
